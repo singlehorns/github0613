@@ -1,3 +1,9 @@
 body{
     background:#000;
+    text-align:center;
+}
+
+h1{
+    color:#FFF;
+    font-family:'Noto sans TC',sans-serif;
 }
